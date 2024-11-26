@@ -1,0 +1,3 @@
+# DEFINITION_PATH=./analyze_solution_definition_modo.json
+DEFINITION_PATH=./analyze_solution_definition_cobranza-oms.json
+# DEFINITION_PATH=./analyze_solution_definition_mp.json

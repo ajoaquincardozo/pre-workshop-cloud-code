@@ -1,0 +1,21 @@
+{
+    "solution_path": "C:\\Users\\f15975\\Desktop\\Repos\\gateway-modo",
+    "name": "modo",
+    "layers": [
+        "Domain.Core",
+        "Domain.Entities",
+        "Infrastructure",
+        "Presentation.Api"
+    ],
+    "process_all_files": true,
+    "files_to_process": {
+        "Domain.Core": [
+            { "path": "Models\\.cs$" },
+            { "path": "Interfaces\\.cs$" }
+        ],
+        "Infrastructure": [
+            { "path": "Services\\.cs$" },
+            { "path": "Repositories\\.cs$" }
+        ]
+    }
+}
